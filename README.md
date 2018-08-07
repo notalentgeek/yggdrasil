@@ -13,7 +13,10 @@ Yggdrasil is a note (and later file management) web application.
 
 * **(DONE)** Look for Go project directory structure 
 * **(DONE)** Look for basic .gitignore for Go project
+* **(DONE)** Create basic Hello World program in Go
 * Create or find a function that behave like Python's `walk()`
+    * **(DONE)** Check walk function example from Go standard library
+    * Rewrite the walk function to understand it better (perhaps, adjust it based on my needs)
 
 ## Appendixes
 
@@ -21,6 +24,7 @@ Yggdrasil is a note (and later file management) web application.
 
 * Go Project Folder Structure: [https://github.com/golang-standards/project-layout](https://github.com/golang-standards/project-layout)
 * Common Go Project .gitignore: [https://github.com/github/gitignore/blob/master/Go.gitignore](https://github.com/github/gitignore/blob/master/Go.gitignore)
+* Go `walk()` Function from Standard Library Documentation and Example: [https://golang.org/pkg/path/filepath/#Walk](https://golang.org/pkg/path/filepath/#Walk)
 
 ## Appendix 2: Go Project Directory Structure 
 
