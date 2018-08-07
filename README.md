@@ -13,6 +13,7 @@ Yggdrasil is a note (and later file management) web application.
 
 * **(DONE)** Look for Go project directory structure 
 * **(DONE)** Look for basic .gitignore for Go project
+* Create or find a function that behave like Python's `walk()`
 
 ## Appendixes
 
