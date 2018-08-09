@@ -7,5 +7,5 @@ func main() {
 }
 
 func walkGetMarkdown() {}
-func walkGetImage() {}
+func fromMarkdownGetAssets() {}
 func checkIfMarkdownHasUpperRef() {}
