@@ -30,8 +30,13 @@ Yggdrasil is a note (and later file management) web application.
 * Markdown Parser for Go:
     * [https://github.com/gomarkdown/markdown](https://github.com/gomarkdown/markdown)
     * [https://github.com/russross/blackfriday](https://github.com/russross/blackfriday)
+* Online Book to Learn About Go Lang: [https://www.golang-book.com/](https://www.golang-book.com/)
+* List of Go Lang Book: [https://github.com/dariubs/GoBooks](https://github.com/dariubs/GoBooks)
+* Awesome Go (Everything Awesome for Go): [https://github.com/avelino/awesome-go](https://github.com/avelino/awesome-go)
+* Important Example on Go String Formatting: [https://gobyexample.com/string-formatting](https://gobyexample.com/string-formatting)
 
 ## Appendix 2: Go Project Directory Structure 
 
-* /internal directory is used to hold all of your Go files that are not reusable with your other Go projects.
-* /tools directory is used to hold all tools related files. Any third-party files that help you on developing this project, for example: Visual Studio Code Workspace file.
+* /internal directory is used to contain all of your Go files that are not reusable with your other Go projects.
+* /notes directory is used to contain all of my notes, both for project or related learning necessary for the project.
+* /tools directory is used to contain all tools related files. Any third-party files that help you on developing this project, for example: Visual Studio Code Workspace file.
