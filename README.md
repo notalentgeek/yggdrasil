@@ -16,7 +16,9 @@ Yggdrasil is a note (and later file management) web application.
 * **(DONE)** Create basic Hello World program in Go
 * Create or find a function that behave like Python's `walk()`
     * **(DONE)** Check walk function example from Go standard library
-    * Rewrite the walk function to understand it better (perhaps, adjust it based on my needs)
+    * **(DONE)** Rewrite the walk function to understand it better (perhaps, adjust it based on my needs)
+    * Create the function in the main project.
+        * **(DONE)** Create some empty functions
 
 ## Appendixes
 
